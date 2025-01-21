@@ -1,1 +1,29 @@
+ Project Proposal: Snake Game Design and Development
 
+ Objective
+To design and implement a modular and interactive Snake game using object-oriented programming principles, emphasizing clean design, scalability, and user engagement.
+
+# Scope
+1. Core Features:
+    Snake Movement: Controlled by arrow keys, dynamically updating the position.
+    Food Generation: Randomly placed red and black food to increase score and grow the snake.
+    Obstacles: Randomly moving obstacles to challenge the player.
+    Collision Detection:** For boundaries, snake's body, food, and obstacles.
+
+2. Classes:
+   Snake Class: Manages snake properties like position, length, and growth.
+   Game Class: Oversees game state, score, food, obstacles, and overall logic.
+
+Deliverables
+ A functional Snake game with a clear interface.
+ Documentation explaining the design and methods.
+ Testing reports ensuring functionality and stability.
+
+Timeline
+ Week 1: Requirement analysis and class structure design.
+ Week 2: Development of `Snake` and `Game` classes.
+ Week 3: Integration, testing, and debugging.
+ Week 4: Final presentation and documentation.
+
+ Expected Outcome
+A fully functional, engaging Snake game that demonstrates object-oriented programming principles and highlights efficient, modular coding practices.
